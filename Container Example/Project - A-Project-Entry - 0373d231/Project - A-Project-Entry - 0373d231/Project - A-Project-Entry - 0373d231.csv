@@ -1,0 +1,64 @@
+id,date,title,content,category,elabid,rating,url,metadata
+,2023-01-20,A Project Entry," 
+
+
+
+Title
+A project entry title
+
+
+Subproject (CPCLab)
+Subproject entry title
+
+
+Type
+Third-party project
+
+
+Sponsor
+Project sponsor
+
+
+Cooperation partners
+Project cooperation partners
+
+
+AObj-Nr.
+ID of the project
+
+
+Project manager
+Max Mustermann
+
+
+Responsible in working group
+Erika Musterfrau
+
+
+Project staff
+Erika Musterfrau
+
+
+Start
+DD.MM.YYYY
+
+
+End
+DD.MM.YYYY
+
+
+Status
+Funding status
+
+
+Further informations
+
+Further information regarding the project
+ 
+
+
+
+
+Mandatory tags: 1_Lab, 2_System
+Mandatory linked item: 2_System
+ ",Project,,0,,
